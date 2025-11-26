@@ -1,0 +1,18 @@
+name: nwb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.9
+  - pynwb
+  - spyder
+  - natsort
+  - matplotlib
+  - statsmodels
+  - openpyxl
+  - dandi
+  - opencv
+  - scikit-learn
+  - pingouin
+  - mat73
+prefix: C:\Users\deburke\AppData\Local\miniconda3\envs\nwb
